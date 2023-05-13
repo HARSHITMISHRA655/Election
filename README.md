@@ -40,9 +40,9 @@
   <img width="1246" alt="Screenshot 2023-04-16 at 4 42 16 AM" src="https://user-images.githubusercontent.com/82640789/232257996-bca4a9fd-38b5-44f9-8ed5-3bcf864a8ed5.png">
 
   
- - ### Leader Board 
+<!--  - ### Leader Board 
   <img width="1352" alt="Screenshot 2023-04-16 at 4 42 04 AM" src="https://user-images.githubusercontent.com/82640789/232258000-d02f613e-7e98-45dd-8d92-929db219812a.png">
-
+ -->
  - ### Coupons Board && Transfer Tokens After Voting 
   <img width="600" alt="Screenshot 2023-04-16 at 4 41 47 AM" src="https://user-images.githubusercontent.com/82640789/232258003-f6a5ea2d-294d-4b23-871b-79458503b900.png">
 
