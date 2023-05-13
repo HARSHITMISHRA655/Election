@@ -1,14 +1,8 @@
 
 
-# Electhon - 2023
-
-## Team Name - 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=true&vCenter=true&width=900&lines=Democracy + Chain" alt="Typing SVG" /></a>
-<br/>
+# Electhon 
 ## Problem Statement - 
 ### Engage urban and young voters to participate in elections, so that they can  be actively involved in the democratic process .
-## Team Leader Email -
-### neerajchoubisa876@gmail.com
 
 ## A Brief of the Prototype:
 
